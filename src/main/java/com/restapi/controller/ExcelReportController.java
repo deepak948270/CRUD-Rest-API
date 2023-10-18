@@ -1,7 +1,6 @@
 package com.restapi.controller;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
